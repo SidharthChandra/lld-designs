@@ -10,6 +10,7 @@ This repository serves as a learning resource for mastering object-oriented desi
 
 ## 📂 Contents
 - [Rate Limiter](./rate-limiter/): A flexible, thread-safe rate-limiting system supporting multiple algorithms like Token Bucket and Leaky Bucket.
+- [Parking Lot](./parking-lot/): A modular parking management system with multi-floor support and dynamic fee calculation strategies.
 
 ---
 *Maintained for educational purposes and system design interview preparation.*
